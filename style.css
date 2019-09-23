@@ -1,14 +1,10 @@
 body {
   text-align: center;
+  background-color: gold;
+  font-family: bazooka;
 }
 
-/* Safari 4.0 - 8.0 */
-@-webkit-keyframes load {
-  from {background-color: black; opacity:0;}
-  to {background-color: Gold; opacity:1;}
-}
-
-@keyframes load {
-  from {background-color: black; opacity:0;}
-  to {background-color: Gold; opacity:1;}
+h1 {
+  color: green; 
+  font-size: 7%;
 }
