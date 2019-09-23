@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes load {
+  from {background-color: black; opacity:0;}
+  to {background-color: #262626; opacity:1;}
+}
+
+@keyframes load {
+  from {background-color: black; opacity:0;}
+  to {background-color: #262626; opacity:1;}
+}
