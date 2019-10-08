@@ -3,9 +3,14 @@ body {
   background-color: gold;
   font-family: Calibri;
 }
+
+
 canvas {
-  border: dashed
-  border-color: black
+  border-style: dashed;
+  border-color: black;
+}
+
+
 h1 {
   color: Black; 
   font-size: 60px;
