@@ -8,6 +8,8 @@ body {
 div {
   border-style: dashed;
   border-color: black;
+  border-length: 300;
+  border-width; 300;
 }
 
 
