@@ -5,16 +5,16 @@ body {
 }
 
 
+h1 {
+  color: Black; 
+  font-size: 60px;
+}
+
+
 div {
   border-style: dashed;
   border-color: black;
   padding: 0%;
   length: 300;
   width: 300;
-}
-
-
-h1 {
-  color: Black; 
-  font-size: 60px;
 }
