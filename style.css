@@ -1,24 +1,17 @@
 body {
-  content-align: center;
   background-color: gold;
   font-family: Calibri;
 }
 
-
 h1 {
-  color: Black; 
+  color: black; 
   font-size: 60px;
 }
-
 
 div {
   border-style: dashed;
   border-color: black;
   padding: 0%;
-  length: 300px;
-  width: 300px;
-  display: -webkit-flex; /* Safari */
-  -webkit-align-items: center; /* Safari 7.0+ */
-  display: flex;
-  align-items: center;
+  length: 300;
+  width: 300;
 }
