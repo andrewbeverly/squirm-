@@ -1,24 +1,25 @@
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
-  content-align: center;
   background-color: gold;
   font-family: Calibri;
+  margin: 0;
 }
-
 
 h1 {
-  color: Black; 
+  color: black; 
   font-size: 60px;
+  font-size: 2em;
+  margin: 0.67em 0;
 }
-
 
 div {
   border-style: dashed;
   border-color: black;
-  padding: 0%;
-  length: 300px;
-  width: 300px;
-  display: -webkit-flex; /* Safari */
-  -webkit-align-items: center; /* Safari 7.0+ */
-  display: flex;
-  align-items: center;
+  padding: 0;
+  length: 300;
+  width: 300;
 }
